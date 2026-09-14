@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SportMatch2H</string>
+    <string name="logo_description">Logo de SportMatch2H</string>
+    <string name="title">SportMatch2H</string>
+    <string name="login_title">INICIO DE SESIÓN</string>
+    <string name="username_label">Usuario:</string>
+    <string name="username_hint">Usuario</string>
+    <string name="password_label">Contraseña:</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">ENTRAR</string>
+    <string name="register_link">¿No tienes cuenta? Regístrate aquí</string>
+
+    <!-- Registro -->
+    <string name="register_title">CREAR CUENTA</string>
+    <string name="fullname_label">Nombre completo:</string>
+    <string name="fullname_hint">Nombre completo</string>
+    <string name="email_label">Email:</string>
+    <string name="email_hint">correo@ejemplo.com</string>
+    <string name="phone_label">Teléfono:</string>
+    <string name="phone_hint">600 123 456</string>
+    <string name="confirm_password_label">Confirmar contraseña:</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="register_button">REGISTRARSE</string>
+    <string name="login_link">¿Ya tienes cuenta? Inicia sesión aquí</string>
+
+    <!-- Menu Principal -->
+    <string name="menu_reservar_instalacion">RESERVAR INSTALACIÓN</string>
+    <string name="menu_clases_talleres">CLASES Y TALLERES</string>
+    <string name="menu_horarios">HORARIOS COMPLEJOS DEPORTIVOS</string>
+    <string name="menu_valoraciones">VALORACIONES</string>
+</resources>

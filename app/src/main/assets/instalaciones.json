@@ -1,0 +1,234 @@
+[
+  {
+    "nombre": "Pista 1 Interior Palacio de los Deportes",
+    "deporte": "Pádel",
+    "precio_hora": 9.0,
+    "es_exterior": false,
+    "precio_focos": 0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 2 Interior Palacio de los Deportes",
+    "deporte": "Pádel",
+    "precio_hora": 9.0,
+    "es_exterior": false,
+    "precio_focos": 0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 1 Exterior Palacio de los Deportes",
+    "deporte": "Pádel",
+    "precio_hora": 6.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 2 Exterior Palacio de los Deportes",
+    "deporte": "Pádel",
+    "precio_hora": 6.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 3 Exterior Palacio de los Deportes",
+    "deporte": "Pádel",
+    "precio_hora": 6.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 4 Exterior Palacio de los Deportes",
+    "deporte": "Pádel",
+    "precio_hora": 6.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 5 Exterior Palacio de los Deportes",
+    "deporte": "Pádel",
+    "precio_hora": 6.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 6 Exterior Palacio de los Deportes",
+    "deporte": "Pádel",
+    "precio_hora": 6.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 1 Exterior Polideportivo Ramón y Cajal",
+    "deporte": "Pádel",
+    "precio_hora": 6.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "ramon_y_cajal"
+  },
+  {
+    "nombre": "Pista 1 Exterior Zona Montequinto",
+    "deporte": "Pádel",
+    "precio_hora": 6.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "zona_montequinto"
+  },
+  {
+    "nombre": "Pista 2 Exterior Zona Montequinto",
+    "deporte": "Pádel",
+    "precio_hora": 6.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "zona_montequinto"
+  },
+  {
+    "nombre": "Pista 3 Exterior Zona Montequinto",
+    "deporte": "Pádel",
+    "precio_hora": 6.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "zona_montequinto"
+  },
+  {
+    "nombre": "Pista 4 Exterior Zona Montequinto",
+    "deporte": "Pádel",
+    "precio_hora": 6.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "zona_montequinto"
+  },
+  {
+    "nombre": "Pista 1 Exterior Palacio de los Deportes",
+    "deporte": "Tenis",
+    "precio_hora": 2.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 2 Exterior Palacio de los Deportes",
+    "deporte": "Tenis",
+    "precio_hora": 2.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 1 Exterior Polideportivo Ramón y Cajal",
+    "deporte": "Tenis",
+    "precio_hora": 2.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "ramon_y_cajal"
+  },
+  {
+    "nombre": "Pista 2 Exterior Polideportivo Ramón y Cajal",
+    "deporte": "Tenis",
+    "precio_hora": 2.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "ramon_y_cajal"
+  },
+  {
+    "nombre": "Pista 1 Exterior Zona Montequinto",
+    "deporte": "Tenis",
+    "precio_hora": 2.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "zona_montequinto"
+  },
+  {
+    "nombre": "Pista 2 Exterior Zona Montequinto",
+    "deporte": "Tenis",
+    "precio_hora": 2.5,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "zona_montequinto"
+  },
+  {
+    "nombre": "Estadio Manuel Utrilla",
+    "deporte": "Fútbol",
+    "precio_hora": 10.0,
+    "es_exterior": true,
+    "precio_focos": 6.5,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Campo Fútbol 7 Pabellón",
+    "deporte": "Fútbol",
+    "precio_hora": 10.0,
+    "es_exterior": true,
+    "precio_focos": 6.5,
+    "id_complejo": "zona_montequinto"
+  },
+  {
+    "nombre": "Pista 1 Interior Palacio de los Deportes",
+    "deporte": "Fútbol Sala",
+    "precio_hora": 10.0,
+    "es_exterior": false,
+    "precio_focos": 0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 2 Interior Palacio de los Deportes",
+    "deporte": "Fútbol Sala",
+    "precio_hora": 10.0,
+    "es_exterior": false,
+    "precio_focos": 0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 3 Interior Palacio de los Deportes",
+    "deporte": "Fútbol Sala",
+    "precio_hora": 10.0,
+    "es_exterior": false,
+    "precio_focos": 0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 1 Exterior Palacio de los Deportes",
+    "deporte": "Fútbol Sala",
+    "precio_hora": 4.0,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "palacio_deportes"
+  },
+  {
+    "nombre": "Pista 1 Exterior Polideportivo Ramón y Cajal",
+    "deporte": "Fútbol Sala",
+    "precio_hora": 4.0,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "ramon_y_cajal"
+  },
+  {
+    "nombre": "Pista 2 Exterior Polideportivo Ramón y Cajal",
+    "deporte": "Fútbol Sala",
+    "precio_hora": 4.0,
+    "es_exterior": true,
+    "precio_focos": 2.0,
+    "id_complejo": "ramon_y_cajal"
+  },
+  {
+    "nombre": "Pabellón Montequinto",
+    "deporte": "Fútbol Sala",
+    "precio_hora": 10.0,
+    "es_exterior": false,
+    "precio_focos": 0,
+    "id_complejo": "zona_montequinto"
+  },
+  {
+    "nombre": "Pabellón Entretorres",
+    "deporte": "Fútbol Sala",
+    "precio_hora": 10.0,
+    "es_exterior": false,
+    "precio_focos": 0,
+    "id_complejo": "zona_montequinto"
+  }
+]

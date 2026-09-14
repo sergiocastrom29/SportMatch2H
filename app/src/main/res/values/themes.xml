@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SportMatch2H" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/brand_green</item>
+    </style>
+
+    <style name="Theme.SportMatch2H" parent="Base.Theme.SportMatch2H" />
+</resources>
